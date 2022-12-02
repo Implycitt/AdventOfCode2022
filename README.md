@@ -11,7 +11,7 @@
 <tr>
 <td>
   
-Advent of code solutions that were used for each day. If I get stuck (inevitably) i'll post a solution whenever more than two of my neurons can fire up. The solutions will not be modified from their original state once I got the solution to that day.
+Advent of code 2022 solutions that were used for each day. If I get stuck (inevitably) I'll post a solution whenever more than two of my neurons can fire up. The solutions will not be modified from their original state once I get the answers for that day.
 
 </td>
 </tr>
