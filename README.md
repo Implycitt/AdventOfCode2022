@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://www.smarty.com/img/advent-of-code-2022.pnghttps://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec.png"></a>
+  <img src="https://www.smarty.com/img/advent-of-code-2022.png"></a>
 </h1>
 
 ---
