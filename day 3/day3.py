@@ -31,7 +31,6 @@ def checkCommonP2(arr, secarr, tarr):
                     if i == j and j == k:
                         # print(i, j, k)
                         commonCharacters.append(i)
-                        print(commonCharacters)
                         found = True
                         break
     return commonCharacters
@@ -56,7 +55,6 @@ def main2(arr):
     characters = []
     for i in range(0, len(arr)-2, 3):
         characters.append(''.join(str(e) for e in checkCommonP2(arr[i], arr[i+1], arr[i+2])))
-    print(characters)
     for i in characters:
         sumofpriorities += int(priorities(i))
     return sumofpriorities
