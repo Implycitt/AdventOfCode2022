@@ -45,7 +45,6 @@ def part2():
 for block in sections:
     parse(block)
 
-@lru_cache(None)
 def search(absolutepath):
     size = dir_sizes[absolutepath]
     for child in children[absolutepath]:
