@@ -44,11 +44,11 @@ def scoreChecker():
                     if (0 <= ii < row and 0 <= jj < column) and createGrid[ii, jj] >= currentTree:
                         distance += 1
                 score *= distance
-                
+
             answer = max(answer, score)
 
     print(answer)
 
 if __name__ == "__main__":
-    # insideCheck()
+    insideCheck()
     scoreChecker()
